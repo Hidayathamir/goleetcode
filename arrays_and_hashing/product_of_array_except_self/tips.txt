@@ -1,0 +1,3 @@
+1. bikin array yang isinya perkalian prefix, we called it a
+2. bikin array yang isinya perkalian postfix, we called it b
+3. bikin array yang isinya a * b
