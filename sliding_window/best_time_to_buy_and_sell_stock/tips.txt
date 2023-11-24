@@ -1,0 +1,10 @@
+use two pointer
+
+left, right = 0, 1
+
+iterate prices
+
+if prices[right] < prices[left]:
+    left = right
+
+hitung max profit
