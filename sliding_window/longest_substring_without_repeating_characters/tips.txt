@@ -1,0 +1,8 @@
+use two pointer, left & right
+
+right iterate s
+
+while "substring dari left - sebelum right" containt s[right]:
+    left++
+
+hitung current length, update max if greater
