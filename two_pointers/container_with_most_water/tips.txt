@@ -1,0 +1,11 @@
+use two pointer
+
+1, 8, 6, 2, 5, 4, 8, 3, 7
+l                       r
+
+calculate area, update max if greater
+
+if left value < right value:
+    l++
+else:
+    r--
