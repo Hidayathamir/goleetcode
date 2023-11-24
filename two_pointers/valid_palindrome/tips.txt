@@ -1,0 +1,10 @@
+use two pointer
+left pointer & right pointer
+
+asdf
+l  r
+
+left pointer move to right
+right pointer move to left
+
+if left pointer value != right pointer value, it's not palindrome
