@@ -1,0 +1,2 @@
+use hashmap for count
+use array with length equal to len nums, index array is the count, value array is list of nums that sebanyak itu
