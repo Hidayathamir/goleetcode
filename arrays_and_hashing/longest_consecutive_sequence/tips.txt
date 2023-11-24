@@ -1,0 +1,4 @@
+1. convert list to hashmap
+2. iterate list and check is the num are the first sequence
+    2.1 it is first sequence if hashmap does not have num-1
+    2.2 if it's the first sequence then we can start counting the sequence, basically we are using while loop while and check is hashmap has num+1+1+1.
